@@ -56,7 +56,7 @@
             this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label2.Location = new System.Drawing.Point(58, 231);
+            this.label2.Location = new System.Drawing.Point(24, 237);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(208, 31);
             this.label2.TabIndex = 1;
